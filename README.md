@@ -69,4 +69,4 @@ Você pode baixar o código e executá-lo localmente. Note que, por utilizar o F
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/DHPedro/fatoracao-de-numeros.git](https://github.com/DHPedro/fatoracao-de-numeros.git)
+   git clone https://github.com/DHPedro/fatoracao-de-numeros.git
